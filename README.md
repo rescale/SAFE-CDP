@@ -19,3 +19,5 @@ Mark page : https://github.com/rescale/SAFE-CDP/blob/main/mark-page
 [ Synopsys ](mailto:SAFE-CPG@Synopsys.com?subject=Request%20Synopsys%20License&body=%0APlease%20downaload%20%27Synopsys%20request%20excel%20form%27%20file%2C%20fill%20the%20record%20and%20attach%20here.%20)  [Request_form](https://github.com/rescale/SAFE-CDP/raw/main/[SAFE-CDP]Synopsys_License_Request_form.xlsx)        
 
 * alphabetic order.
+
+written by Andrew Bae
