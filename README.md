@@ -5,7 +5,7 @@ Please downaload request excel form file, fill the record and attach to the requ
 
 Related page : https://kr.rescale.com/partner/communication/license-request/
 
-Mark
+Mark page : https://github.com/rescale/SAFE-CDP/blob/main/mark-page
 
 #### Please downaload request excel form file, fill the record and attach. 
 
